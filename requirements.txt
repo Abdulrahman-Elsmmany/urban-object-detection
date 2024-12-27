@@ -1,0 +1,8 @@
+numpy==2.2.1
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+Pillow==11.0.0
+roboflow==1.1.50
+streamlit==1.40.1
+torch==2.5.1+cu124
+ultralytics==8.3.32
